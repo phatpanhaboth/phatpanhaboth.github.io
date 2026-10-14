@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phatpanhaboth.github.io/sitemap.xml

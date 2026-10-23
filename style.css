@@ -135,6 +135,8 @@ h3 { font-size: 1rem; font-weight: 600; margin: 0; }
 
 .duties { margin: 6px 0 0; padding-left: 18px; color: var(--muted); font-size: 0.95rem; }
 .duties li { padding: 1px 0; list-style: disc; }
+.proj-label { margin: 8px 0 0 !important; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.projects li { list-style: decimal; }
 .plain em { font-family: var(--serif); font-style: italic; }
 
 main { padding-bottom: 48px; }
